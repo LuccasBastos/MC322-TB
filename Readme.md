@@ -1,10 +1,10 @@
-# **MC322 - Turma B**
+# **MC322 - Class B**
 
-# **Aluno**
+# **Student**
 	Luccas Bastos
 
-# **RA**
+# **Academic Register**
 	RA: 240259
 
-# **Curso**
-	Engenharia de Controle e Automação
+# **Course**
+	Control and Automation Engineering
